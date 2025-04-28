@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div>
+	<h1>🔥 Lit Wedding coming soon...</h1>
+</div>
+
+<style>
+	div {
+		width: 100vw;
+		height: 100vh;
+		display: grid;
+		place-items: center;
+	}
+</style>
